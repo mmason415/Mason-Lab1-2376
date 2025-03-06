@@ -1,1 +1,1 @@
-This is Lab 1 for Mobile App Dev. This app presents a photo of me with my name and a small description of me.
+This is Lab 1 for Mobile App Dev. This app presents a photo of me with my name and a small description of me. Once the project is opened in Android Studio, press the green play button at the top to be greeted by a pastel purple background with my photo and description.
