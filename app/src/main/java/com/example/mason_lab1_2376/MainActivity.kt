@@ -72,7 +72,7 @@ fun myProfile(modifier: Modifier = Modifier) {
     }
 }
 
-// ✅ Corrected Preview function
+
 @Preview(showBackground = true)
 @Composable
 fun MyProfilePreview() {
